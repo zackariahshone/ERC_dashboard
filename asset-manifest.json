@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ERC_dashboard/static/css/main.098e7200.css",
-    "main.js": "/ERC_dashboard/static/js/main.11865519.js",
+    "main.css": "/ERC_dashboard/static/css/main.aaf6335d.css",
+    "main.js": "/ERC_dashboard/static/js/main.4936e5eb.js",
     "static/js/453.172b9121.chunk.js": "/ERC_dashboard/static/js/453.172b9121.chunk.js",
     "static/media/logo.svg": "/ERC_dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ERC_dashboard/index.html",
-    "main.098e7200.css.map": "/ERC_dashboard/static/css/main.098e7200.css.map",
-    "main.11865519.js.map": "/ERC_dashboard/static/js/main.11865519.js.map",
+    "main.aaf6335d.css.map": "/ERC_dashboard/static/css/main.aaf6335d.css.map",
+    "main.4936e5eb.js.map": "/ERC_dashboard/static/js/main.4936e5eb.js.map",
     "453.172b9121.chunk.js.map": "/ERC_dashboard/static/js/453.172b9121.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.098e7200.css",
-    "static/js/main.11865519.js"
+    "static/css/main.aaf6335d.css",
+    "static/js/main.4936e5eb.js"
   ]
 }
